@@ -3,12 +3,9 @@
 // import project3 from "../assets/projects/project-3.jpg";
 // import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I’m an aspiring full stack developer currently pursuing a BTech degree at the Institute of Engineering and Rural Technology. My skills include JavaScript, React, Tailwind, and C++, and I’m working towards becoming proficient in the MERN stack`;
+export const HERO_CONTENT = `I’m an aspiring full stack developer. My skills include JavaScript, React, Tailwind, and C++, and I’m working towards becoming proficient in the MERN stack`;
 
-export const ABOUT_TEXT = `I’m an aspiring full stack developer currently pursuing a BTech degree at the Institute of Engineering and Rural Technology. My skills include JavaScript, React, Tailwind, and C++, and I’m working towards becoming proficient in the MERN stack.
-I’m passionate about building dynamic and responsive web applications that deliver a great user experience.
-In addition to coding, I love to read. Some of my favorite books include Rich Dad Poor Dad and One Indian Girl.
-I’m always eager to learn and connect with others in the tech community.`;
+export const ABOUT_TEXT = `A passionate and dedicated developer with a strong foundation in C++, JavaScript, HTML5, and Tailwind CSS. Currently, I am pursuing a B.Tech degree at the Institute of Engineering and Rural Technology, where I continue to expand my knowledge and skills in software development. I enjoy problem-solving, creating clean and efficient code, and building dynamic user interfaces. As I work toward becoming a full stack developer, I am constantly learning and exploring new technologies to enhance my abilities and deliver impactful solutions.`;
 
 // export const EXPERIENCES = [
 //   {
