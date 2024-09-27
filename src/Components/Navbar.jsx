@@ -10,7 +10,7 @@ const Navbar = () => {
         <img src={Logo} alt="logo" className='w-12 h-12' />
         </div>
         <div className='m-8 flex items-center justify-center gap-4 text-2xl '>
-          <a href="https://drive.google.com/file/d/1F6PZaN-JhQRKxBKGXKyrNGqR2t3mM2IV/view?usp=drive_link"><FaFilePdf/></a>
+          <a href="https://drive.google.com/file/d/1F6PZaN-JhQRKxBKGXKyrNGqR2t3mM2IV/view?usp=drive_link" rel='noopener noreferrer' download><FaFilePdf/></a>
            <a href="https://www.linkedin.com/in/suneel-kumar-576617229/"><FaLinkedin/></a> 
            <a href="https://github.com/formaxx786"><FaGithub/></a> 
             <a href="https://www.instagram.com/_sun.eel_/"><FaInstagram/></a>
