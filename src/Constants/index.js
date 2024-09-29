@@ -1,4 +1,4 @@
- import Todo from '../Images/Todo.jpg'
+ import Todo from '../Images/Todo.jpeg'
 
 export const HERO_CONTENT = `I’m an aspiring full stack developer currently pursuing a BTech degree at the Institute of Engineering and Rural Technology. My skills include JavaScript, React, Tailwind, and C++, and I’m working towards becoming proficient in the MERN stack`;
 
