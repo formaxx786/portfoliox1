@@ -1,4 +1,5 @@
  import Todo from '../Images/Todo.jpeg'
+ import Todo from '../Images/Flicofy.jpeg'
 
 export const HERO_CONTENT = `I’m an aspiring full stack developer currently pursuing a BTech degree at the Institute of Engineering and Rural Technology. My skills include JavaScript, React, Tailwind, and C++, and I’m working towards becoming proficient in the MERN stack`;
 
@@ -46,13 +47,13 @@ export const PROJECTS = [
       "A fully functional ToDo Manager with features like Edit Todo, Save ToDo, Delete Todo and Completed or Not Feature is also available and this project is also saves your todo list for future.",
     technologies: ["HTML", "Tailwind CSS", "React", "Node.js"],
   },
-//   {
-//     title: "Task Management App",
-//     image: project2,
-//     description:
-//       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-//     technologies: ["HTML", "CSS", "Angular", "Firebase"],
-//   },
+ {
+    title: "Figma Clone",
+    image: Flicofy,
+    description:
+      "Built a real-time collaborative design tool using Next.js, TypeScript, and Tailwind CSS. Integrated Liveblocks for live cursor tracking and multi-user editing, delivering a seamless and responsive user experience.",
+    technologies: ["NEXT.JS","TypeScript", "Tailwind CSS", "Liveblocks"],
+  },
 //   {
 //     title: "Portfolio Website",
 //     image: project3,
